@@ -2,3 +2,5 @@
 using namespace std;
 
 class BelahKetupat; // forward declaration
+
+class LayangLayang 
