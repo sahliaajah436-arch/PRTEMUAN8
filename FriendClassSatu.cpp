@@ -5,5 +5,7 @@ using namespace std;
 class siswa;
 class orang
 {
-private :
-}
+private:
+    string nama;
+
+};
